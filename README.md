@@ -129,7 +129,8 @@ The tool processed the submitted hash and attempted to identify the password ass
 
 ### Screenshot
 
-![Password Recovery Process](screenshots/Screenshot_2026-11-23_23_50_34.png)
+![Password Recovery Process]<img width="1599" height="818" alt="WhatsApp Image 2026-11-25 at 10 42 19 PM" src="https://github.com/user-attachments/assets/f1a23239-fec2-4f5b-89b9-0ff425d00a3b" />
+
 
 **Result:** Password recovery process completed successfully.
 
@@ -150,7 +151,8 @@ The recovered password was used in the next stage to verify whether the original
 
 ### Screenshot
 
-![Recovered Password](screenshots/Screenshot_2026-11-23_23_54_14.png)
+![Recovered Password]<img width="1077" height="1517" alt="WhatsApp Image 2026-11-25 at 10 42 20 PM (1)" src="https://github.com/user-attachments/assets/3e80239f-b5f7-45e7-b48c-e2f3a5c8c7e3" />
+
 
 ---
 
@@ -163,6 +165,9 @@ The recovered password was entered into the PDF password prompt.
 The document opened successfully, confirming that the recovered password was correct.
 
 **Final Result:** Successfully unlocked the password-protected internship PDF.
+<img width="1599" height="818" alt="WhatsApp Image 2026-11-25 at 10 42 20 PM (2)" src="https://github.com/user-attachments/assets/6ef543ff-1cd2-4195-a0e4-37f3ddec2f08" />
+<img width="1058" height="1460" alt="WhatsApp Image 2026-11-25 at 10 42 20 PM" src="https://github.com/user-attachments/assets/02be3a47-a1dd-4f17-9433-f168de70ca30" />
+
 
 ---
 
